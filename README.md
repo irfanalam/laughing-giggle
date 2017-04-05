@@ -8,3 +8,5 @@ This command will check the current status of the repository.
 
 
 This message will just show in my master-branch, because I added this code in dummy branch.
+
+hello world i'm just playing around with git.
