@@ -7,4 +7,4 @@ git status
 This command will check the current status of the repository.
 
 
-This message will just show in my dummy-branch, because I added this code in dummy branch.
+This message will just show in my master-branch, because I added this code in dummy branch.
